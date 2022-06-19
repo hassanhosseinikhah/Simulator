@@ -1,0 +1,381 @@
+Cell Down:
+
+[
+	{
+		"source": "cell",
+		"onTime": "2022-04-24T22:06:00",
+		"offTime": "",
+		"siteName": "TH3G1242",
+		"cellName":"TH3G1242A2",
+		"status": "on",
+		"occurrenceID": "a"
+	}
+    ,{
+		"source": "cell",
+		"onTime": "",
+		"offTime": "2022-04-24T22:06:12",
+		"siteName":"TH3G1242",
+		"cellName": "TH3G1242A2",
+		"status": "off",
+		"occurrenceID": "a"
+	}
+
+]
+
+***************************************************************************************
+
+[
+	{
+		
+		"source": "cell",
+		"onTime": "2022-04-24T22:06:00",
+		"offTime": "",
+		"siteName": "TH2G1230",
+		"cellName":"TH2G1230A1",
+		"status": "on",
+		"occurrenceID": "a"
+	}
+    ,{
+		"source": "cell",
+		"onTime": "",
+		"offTime": "2022-04-24T22:06:12",
+		"siteName":"TH2G1230",
+		"cellName": "TH2G1230A1",
+		"status": "off",
+		"occurrenceID": "a"
+	}
+
+]
+*****************************************************************************************************************
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Cell Fluc:
+
+[
+	{
+		
+		"source": "cell",
+		"onTime": "2022-04-24T22:06:00",
+		"offTime": "",
+		"siteName": "TH2G1234",
+		"cellName": "TH2G1234A1",
+		"status": "on",
+		"occurrenceID": "a"
+	}
+    ,{
+
+		"source": "cell",
+		"onTime": "",
+		"offTime": "2022-04-24T22:06:04",
+		"siteName": "TH2G1234",
+		"cellName": "TH2G1234A1",
+		"status": "off",
+		"occurrenceID": "a"
+	}
+
+,
+	{
+		
+		"source": "cell",
+		"onTime": "2022-04-24T22:06:05",
+		"offTime": "",
+		"siteName": "TH2G1234",
+		"cellName": "TH2G1234A1",
+		"status": "on",
+		"occurrenceID": "b"
+	},	{
+		
+		"source": "cell",
+		"onTime": "",
+		"offTime": "2022-04-24T22:06:08",
+		"siteName":"TH2G1234",
+		"cellName": "TH2G1234A1",
+		"status": "off",
+		"occurrenceID": "b"
+	}
+]
+**********************************************************************************************
+[
+	{
+		
+		"source": "cell",
+		"onTime": "2022-04-24T22:06:00",
+		"offTime": "",
+		"siteName": "TH1G1213",
+		"cellName": "TH1G1213A",
+		"status": "on",
+		"occurrenceID": "a"
+	}
+    ,{
+
+		"source": "cell",
+		"onTime": "",
+		"offTime": "2022-04-24T22:06:04",
+		"siteName": "TH1G1213",
+		"cellName": "TH1G1213A",
+		"status": "off",
+		"occurrenceID": "a"
+	}
+
+,
+	{
+		"source": "cell",
+		"onTime": "2022-04-24T22:06:05",
+		"offTime": "",
+		"siteName": "TH1G1213",
+		"cellName": "TH1G1213A",
+		"status": "on",
+		"occurrenceID": "b"
+	},	{
+		
+		"source": "cell",
+		"alarmType": "alarm",
+		"onTime": "",
+		"offTime": "2022-04-24T22:06:08",
+		"siteName":"TH1G1213",
+		"cellName": "TH1G1213A",
+		"status": "off",
+		"occurrenceID": "b"
+	}
+]
+***************************************************************************************************
+///////////////////////////////////////////////////////////////////////////////////////////////////
+Site Fluc:
+[
+	{
+		"source": "cell",
+		"onTime": "2022-04-24T22:06:00",
+		"offTime": "",
+		"siteName": "TH3G1257",
+		"cellName": "TH3G1257A1",
+		"status": "on",
+		"occurrenceID": "a"
+	},
+	{
+		"source": "cell",
+		"onTime": "",
+		"offTime": "2022-04-24T22:06:02",
+		"siteName": "TH3G1257",
+		"cellName": "TH3G1257A1",
+		"status": "off",
+		"occurrenceID": "a"
+	},
+	{
+		
+		"source": "cell",
+		"onTime": "2022-04-24T22:06:03",
+		"offTime": "",
+	    "siteName": "TH3G1257",
+		"cellName": "TH3G1257A1",
+		"status": "on",
+		"occurrenceID": "b"
+	},
+	{
+		"source": "cell",
+		"onTime": "",
+		"offTime": "2022-04-24T22:06:07",
+		"siteName": "TH3G1257",
+		"cellName": "TH3G1257A1",
+		"status": "off",
+		"occurrenceID": "b"
+	}
+	,{
+		"source": "cell",
+		"onTime": "2022-04-24T22:06:01",
+		"offTime": "",
+		"siteName": "TH3G1257",
+		"cellName": "TH3G1257A2",
+		"status": "on",
+		"occurrenceID": "c"
+	},
+	{
+		"source": "cell",
+		"onTime": "",
+		"offTime": "2022-04-24T22:06:03",
+		"siteName": "TH3G1257",
+		"cellName": "TH3G1257A2",
+		"status": "off",
+		"occurrenceID": "c"
+	},
+	{
+		"source": "cell",
+		"onTime": "2022-04-24T22:06:05",
+		"offTime": "",
+		"siteName": "TH3G1257",
+		"cellName": "TH3G1257A2",
+		"status": "on",
+		"occurrenceID": "d"
+	},
+	{
+		"source": "cell",
+		"onTime": "",
+		"offTime": "2022-04-24T22:06:10",
+		"siteName": "TH3G1257",
+		"cellName": "TH3G1257A2",
+		"status": "off",
+		"occurrenceID": "d"
+	}
+]
+****************************************************************************************************************
+[
+	{
+		"source": "cell",
+		"onTime": "2022-04-24T22:06:00",
+		"offTime": "",
+		"siteName":"TH3G1254",
+		"cellName": "TH3G1254A2",
+		"status": "on",
+		"occurrenceID": "a"
+	},
+	{
+		"source": "cell",
+		"onTime": "",
+		"offTime": "2022-04-24T22:06:02",
+		"siteName":"TH3G1254",
+		"cellName": "TH3G1254A2",
+		"status": "off",
+		"occurrenceID": "a"
+	},
+	{
+		"source": "cell",
+		"onTime": "2022-04-24T22:06:03",
+		"offTime": "",
+	    "siteName":"TH3G1254",
+		"cellName": "TH3G1254A2",
+		"status": "on",
+		"occurrenceID": "b"
+	},
+	{
+		"source": "cell",
+		"onTime": "",
+		"offTime": "2022-04-24T22:06:07",
+		"siteName":"TH3G1254",
+		"cellName": "TH3G1254A2",
+		"status": "off",
+		"occurrenceID": "b"
+	},
+    {
+		"source": "cell",
+		"onTime": "2022-04-24T22:06:01",
+		"offTime": "",
+		"siteName": "TH3G1254",
+		"cellName": "TH3G1254A1",
+		"status": "on",
+		"occurrenceID": "c"
+	},
+	{
+		"source": "cell",
+		"onTime": "",
+		"offTime": "2022-04-24T22:06:03",
+		"siteName": "TH3G1254",
+		"cellName": "TH3G1254A1",
+		"status": "off",
+		"occurrenceID": "c"
+	},
+	{
+		"source": "cell",
+		"onTime": "2022-04-24T22:06:05",
+		"offTime": "",
+		"siteName": "TH3G1254",
+		"cellName": "TH3G1254A1",
+		"status": "on",
+		"occurrenceID": "d"
+	},
+	{
+		"source": "cell",
+		"onTime": "",
+		"offTime": "2022-04-24T22:06:10",
+		"siteName": "TH3G1254",
+		"cellName": "TH3G1254A1",
+		"status": "off",
+		"occurrenceID": "d"
+	}
+]
+********************************************************************************************************
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+Site Down:
+[
+	{
+		"source": "cell",
+		"onTime": "2022-04-24T22:06:00",
+		"offTime": "",
+		"siteName": "TH2G1239",
+		"cellName": "TH2G1239A1",
+		"status": "on",
+		"occurrenceID": "a"
+	},
+	{
+		"source": "cell",
+		"onTime": "",
+		"offTime": "2022-04-24T22:06:10",
+		"siteName": "TH2G1239",
+		"cellName": "TH2G1239A1",
+		"status": "off",
+		"occurrenceID": "a"
+	},
+	{
+		
+		"source": "cell",
+		"onTime": "2022-04-24T22:06:01",
+		"offTime": "",
+	    "siteName": "TH2G1239",
+		"cellName": "TH2G1239B1",
+		"status": "on",
+		"occurrenceID": "b"
+	},
+	{
+		"source": "cell",
+		"onTime": "",
+		"offTime": "2022-04-24T22:06:12",
+		"siteName": "TH2G1239",
+		"cellName": "TH2G1239B1",
+		"status": "off",
+		"occurrenceID": "b"
+	}
+	
+]
+***********************************************************************************************
+[
+	{
+		"source": "cell",
+		"onTime": "2022-04-24T22:06:00",
+		"offTime": "",
+		"siteName": "TH2G1224",
+		"cellName": "TH2G1224A1",
+		"status": "on",
+		"occurrenceID": "a"
+	},
+	{
+		"source": "cell",
+		"onTime": "",
+		"offTime": "2022-04-24T22:06:10",
+		"siteName": "TH2G1224",
+		"cellName": "TH2G1224A1",
+		"status": "off",
+		"occurrenceID": "a"
+	},
+	{
+		
+		"source": "cell",
+		"onTime": "2022-04-24T22:06:01",
+		"offTime": "",
+	    "siteName": "TH2G1224",
+		"cellName": "TH2G1224B1",
+		"status": "on",
+		"occurrenceID": "b"
+	},
+	{
+		"source": "cell",
+		"onTime": "",
+		"offTime": "2022-04-24T22:06:12",
+		"siteName": "TH2G1224",
+		"cellName": "TH2G1224B1",
+		"status": "off",
+		"occurrenceID": "b"
+	}
+	
+]
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+

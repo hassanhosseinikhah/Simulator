@@ -1,0 +1,16 @@
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
+swagger:
+      app:
+        basePackage: com.example.simualtor
+        title: Simulator  Api Documentation
+        description: Documentation automatically gener
+
+variables:
+  file:
+    path: F:\fileAlarm.txt
+
+RMS:
+  kafka:
+    topic: RMS73
